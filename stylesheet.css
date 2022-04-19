@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Cambria, Verdana, Geneva, Tahoma, sans-serif, Georgia;   
+    background-color:#333335;
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+   
+}
+
+.Parent{
+    height:100px
+
+
+}
+
+.Logo{
+   display: flex;
+            align-items: center;
+            padding:20px; 
+            margin-left:500px;
+            color:whitesmoke;
+            
+}
+             
+
+
+ .Container{
+     display:flex;
+     border:1px solid whitesmoke;
+     left:70px;
+     background: linear-gradient(to right,grey,black);
+    height:300px;
+     
+ }
+
+ .Forms{
+     Float:left;
+     Color: white;
+    
+     
+ }
+
+ a{
+    color:black;
+    border-radius: 15px;
+    background-color: red;
+    
+}
+
+  .container a{
+  
+    background-color: red;
+    padding: 4px 2px;
+    width: 20%;
+    text-align:center;
+    
+  }
+
+  .Info{
+      
+      float:right;
+      color:white;
+      margin-top: 100px;
+
+      }
+
+      
+
+    
+
+  
+
+
+
+
